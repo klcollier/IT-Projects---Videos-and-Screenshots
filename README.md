@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @klcollier
+- 👋 Hi, I’m LynneC.
 - 👀 I’m interested in IT and Finance.
 - 🌱 I’m currently learning to support cloud activity.
 - 💞️ Thanks for visiting!!
