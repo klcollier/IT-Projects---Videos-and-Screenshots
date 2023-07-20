@@ -1,7 +1,7 @@
-- 👋 Hi, I’m LynneC.
-- 👀 I’m interested in IT and Finance.
-- 🌱 I’m currently learning to support cloud activity.
-- 💞️ Thanks for visiting!!
+- 👋 H
+- 👀 I
+- 🌱 I
+- 💞️ T
 
 <!---
 klcollier/klcollier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
