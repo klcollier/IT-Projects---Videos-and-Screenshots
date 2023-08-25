@@ -11,7 +11,7 @@
 - Resource Groups
 - Virtual Machines
 - Functions of the Environment
--
+
 
 ## osTicket Help Desk System
 
@@ -19,7 +19,7 @@
 - Assigning Roles
 - Assigning Tickets
 - SLAs & Severities
-- 
+  
 
 ## VPNs
 
@@ -27,13 +27,14 @@
 - Security Concepts for Remote Workers
 - Azure
 
+
 ## Azure Network Security
 
 - Azure Active Directory Deployment
 - File Management
 - Users & Assignments
 - Access & Permissions
-- Azure
+
 
 ## DNS
 
@@ -41,19 +42,12 @@
 - CNAMEs
 - Azure Disk Storage
 
+
 ## Cost Management
 
 - Azure Subscription Creation
 - Billing & Budgets
 - Procurement
-- Artifacts
-
-## Azure AI and Machine Learning
-
-- Azure Cognitive Services
-- Azure Machine Learning
-- Azure Bot Service
-
 
 
 <!---
