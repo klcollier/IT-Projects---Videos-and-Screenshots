@@ -53,29 +53,9 @@
 - Azure Machine Learning
 - Azure Bot Service
 
-## Azure IoT
-
-- Azure IoT Hub
-- Azure IoT Central
-- Azure IoT Edge
-
-## Azure Serverless
-
-- Azure Logic Apps
-- Azure Functions
-- Azure Event Grid
-
-## Azure Governance
-
-- Azure Policy
-- Azure Blueprints
-- Azure Management Groups
-
-## Azure Cost Management
-
-- Azure Cost Management and Billing
-- Azure Budgets
-- Azure Advisor
+<div align="center">
+  <h1>MICROSOFT AZURE</h1>
+</div>
 
 
 - 
