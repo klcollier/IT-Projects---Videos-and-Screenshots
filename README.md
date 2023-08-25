@@ -11,7 +11,7 @@
 - Resource Groups
 - Virtual Machines
 - Functions of the Environment
-- A
+-
 
 ## osTicket Help Desk System
 
@@ -19,7 +19,7 @@
 - Assigning Roles
 - Assigning Tickets
 - SLAs & Severities
-- Azure
+- 
 
 ## VPNs
 
