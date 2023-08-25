@@ -3,7 +3,7 @@
 
 
 
-<div align="center">
+-  <div align="center">
   <h1>MICROSOFT AZURE</h1>
 </div>
 
@@ -56,9 +56,6 @@
 - Azure Bot Service
 
 
-
-
-- 
 
 <!---
 klcollier/klcollier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
