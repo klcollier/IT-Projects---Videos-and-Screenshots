@@ -5,13 +5,12 @@
 
 # Microsoft Azure
 
-## Azure Services
+## Azure Environment
 
+- Resource Groups
 - Virtual Machines
-- Azure App Service
-- Azure Functions
-- Azure Kubernetes Service (AKS)
-- Azure SQL Database
+- Functions of the Environment
+- A
 
 ## Azure Management
 
