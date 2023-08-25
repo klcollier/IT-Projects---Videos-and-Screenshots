@@ -1,4 +1,4 @@
-<p style="text-align:center">Center this text!</p>
+<p style="text-align:center">INFORMATION TECHNOLOGY PROJECTS</p>
 - 
 - 👨‍💻 Information Technology Projects
 osTicket (Help Desk Ticketing System)
