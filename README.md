@@ -3,7 +3,9 @@
 
 
 
-# Microsoft Azure
+<div align="center">
+  <h1>MICROSOFT AZURE</h1>
+</div>
 
 ## Azure Environment
 
@@ -53,9 +55,7 @@
 - Azure Machine Learning
 - Azure Bot Service
 
-<div align="center">
-  <h1>MICROSOFT AZURE</h1>
-</div>
+
 
 
 - 
