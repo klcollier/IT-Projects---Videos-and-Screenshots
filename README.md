@@ -1,4 +1,4 @@
-<p style="text-align:center">👨‍💻INFORMATION TECHNOLOGY PROJECTS👨‍💻</p>
+<div  align="center">👨‍💻INFORMATION TECHNOLOGY PROJECTS👨‍💻</div>
 <p style="text-align:center"></p>
 
 
