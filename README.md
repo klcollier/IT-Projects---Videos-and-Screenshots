@@ -46,7 +46,8 @@
 ## Cost Management
 
 - Azure Subscription Creation
-- Billing & Budgets
+- Billing
+- Budgets
 - Procurement
 
 
