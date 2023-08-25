@@ -2,7 +2,6 @@
 <p style="text-align:center"></p>
 
 
-
 <div align="center">
   <h1>MICROSOFT AZURE</h1>
 </div>
