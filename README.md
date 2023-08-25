@@ -12,45 +12,40 @@
 - Functions of the Environment
 - A
 
-## Azure Management
+## osTicket Help Desk System
 
-- Azure Portal
-- Azure CLI
-- Azure Resource Manager (ARM)
-- Azure Policy
-- Azure Blueprints
+- System Creation
+- Assigning Roles
+- Assigning Tickets
+- SLAs & Severities
+- Azure
 
-## Azure Security
+## VPNs
 
-- Azure Active Directory
-- Azure Identity and Access Management
-- Azure Security Center
-- Azure Key Vault
+- ProtonVPN
+- Security Concepts for Remote Workers
+- Azure
 
-## Azure Networking
+## Azure Network Security
 
-- Azure Virtual Network
-- Azure Load Balancer
-- Azure Traffic Manager
-- Azure VPN Gateway
-- Azure ExpressRoute
+- Azure Active Directory Deployment
+- File Management
+- Users & Assignments
+- Access & Permissions
+- Azure
 
-## Azure Storage
+## DNS
 
-- Azure Blob Storage
-- Azure File Storage
-- Azure Table Storage
-- Azure Queue Storage
+- A-Records
+- CNAMEs
 - Azure Disk Storage
 
-## Azure DevOps
+## Cost Management
 
-- Azure DevOps Services
-- Azure DevOps Server
-- Azure Repos
-- Azure Pipelines
-- Azure Boards
-- Azure Artifacts
+- Azure Subscription Creation
+- Billing & Budgets
+- Procurement
+- Artifacts
 
 ## Azure AI and Machine Learning
 
