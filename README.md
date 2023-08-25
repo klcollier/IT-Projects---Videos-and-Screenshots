@@ -3,51 +3,86 @@
 
 
 
--  Information Technology Projects
-osTicket (Help Desk Ticketing System)
+# Microsoft Azure
 
-osTicket: Prerequisites and Installation
-osTicket: Post-Installation Configuration
-osTicket: Ticket Lifecycle Examples
-Microsoft Azure
+## Azure Services
 
-Configuring On-premises Active Directory within Azure VMs
-Azure Virtual Machines Traffic Inspection
-Azure Active Directory Overview (User & Group Creation/Access Management Configuration)
-Azure Active Directory SecOps Demonstration
-Azure KQL Demonstration
-Azure Cloud SOC and HoneyNet
-Azure Sentinel Incident Response Investigation
-Fake Malware Generation in an Azure VM
-Linux
+- Virtual Machines
+- Azure App Service
+- Azure Functions
+- Azure Kubernetes Service (AKS)
+- Azure SQL Database
 
-Hunxploit04 (OSINT Instagram Tool)
+## Azure Management
 
+- Azure Portal
+- Azure CLI
+- Azure Resource Manager (ARM)
+- Azure Policy
+- Azure Blueprints
 
-Tenable Nessus
+## Azure Security
 
-Nessus Essentials Basic Scan
+- Azure Active Directory
+- Azure Identity and Access Management
+- Azure Security Center
+- Azure Key Vault
 
+## Azure Networking
 
-Splunk
+- Azure Virtual Network
+- Azure Load Balancer
+- Azure Traffic Manager
+- Azure VPN Gateway
+- Azure ExpressRoute
 
-Creating a Basic Chart
+## Azure Storage
 
+- Azure Blob Storage
+- Azure File Storage
+- Azure Table Storage
+- Azure Queue Storage
+- Azure Disk Storage
 
-💻Software Projects
-Python Projects
-Fortune Cookie
-Guessing Game
-Mad Lib
-Password Generator
-Weather API
-☊ Multimedia Projects
-Hand Brake Tutorial
+## Azure DevOps
 
+- Azure DevOps Services
+- Azure DevOps Server
+- Azure Repos
+- Azure Pipelines
+- Azure Boards
+- Azure Artifacts
 
-⚅ Synology NAS Projects
-Open Budgeteer (Web App)
-Storage Pool Expansion
+## Azure AI and Machine Learning
+
+- Azure Cognitive Services
+- Azure Machine Learning
+- Azure Bot Service
+
+## Azure IoT
+
+- Azure IoT Hub
+- Azure IoT Central
+- Azure IoT Edge
+
+## Azure Serverless
+
+- Azure Logic Apps
+- Azure Functions
+- Azure Event Grid
+
+## Azure Governance
+
+- Azure Policy
+- Azure Blueprints
+- Azure Management Groups
+
+## Azure Cost Management
+
+- Azure Cost Management and Billing
+- Azure Budgets
+- Azure Advisor
+
 
 - 
 
