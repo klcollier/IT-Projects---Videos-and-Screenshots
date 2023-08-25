@@ -1,6 +1,6 @@
-<p style="text-align:center">INFORMATION TECHNOLOGY PROJECTS</p>
+<p style="text-align:center">👨‍💻INFORMATION TECHNOLOGY PROJECTS👨‍💻</p>
 - 
-- 👨‍💻 Information Technology Projects
+-  Information Technology Projects
 osTicket (Help Desk Ticketing System)
 
 osTicket: Prerequisites and Installation
