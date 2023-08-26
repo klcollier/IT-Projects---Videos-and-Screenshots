@@ -14,7 +14,7 @@
 
 
 ## osTicket Help Desk System  
-![osTicket]([path/to/your/image.png](https://imgur.com/a/aMsW14Q)
+![osTicket]([path/to/your/image.png](https://imgur.com/a/aMsW14Q))
 
 - System Creation
 - Assigning Roles
