@@ -13,8 +13,8 @@
 - Functions of the Environment
 
 
-## osTicket Help Desk System
-![osTicket]([path/to/your/image.png](https://imgur.com/a/aMsW14Q))
+## osTicket Help Desk System  
+![osTicket]([path/to/your/image.png](https://imgur.com/a/aMsW14Q)
 
 - System Creation
 - Assigning Roles
