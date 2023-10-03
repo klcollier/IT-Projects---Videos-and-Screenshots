@@ -14,7 +14,7 @@
 
 
 ## osTicket Help Desk System  
-![linktoisticket](https://imgur.com/a/aMsW14Q)
+![linktoosticket](https://imgur.com/a/aMsW14Q)
 
 
 - System Creation
