@@ -32,6 +32,7 @@
 
 
 ## Azure Network Security
+![linktoActiveDir](https://youtu.be/npy3Q0vupQM)
 
 - Azure Active Directory Deployment
 - File Management
@@ -47,6 +48,7 @@
 
 
 ## Cost Management
+![linktoAzureSubscriptionscreenshot](https://youtu.be/npy3Q0vupQM)
 
 - Azure Subscription Creation
 - Billing
