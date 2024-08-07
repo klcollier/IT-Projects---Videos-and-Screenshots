@@ -7,7 +7,7 @@
 </div>
 
 ## Azure Environment
-![linktoVMs](https://youtu.be/npy3Q0vupQM)
+![linktoVMs](https://www.youtube.com/@k.lynnecollier7763/featured)
 
 - Resource Groups
 - Virtual Machines
